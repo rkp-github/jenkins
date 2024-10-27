@@ -1,1 +1,1 @@
-cat /etc/passwd
+sh test.sh
