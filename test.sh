@@ -1,2 +1,1 @@
-#####
-sh test.sh
+cat /etc/passwd
