@@ -1,2 +1,1 @@
-## testing
 cat /etc/passwd
