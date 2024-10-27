@@ -1,1 +1,2 @@
+pwd
 cat /etc/passwd
