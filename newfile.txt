@@ -1,2 +1,1 @@
 hello newfile 
-new line at terminal
